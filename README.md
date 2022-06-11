@@ -2,7 +2,7 @@
 - 👀 I’m interested in software programming specially app development.
 - 🌱 I’m currently learning Phyton.
 - 💞️ I’m looking to collaborate on web or app development
-- 📫 How to reach me you can find me on Linkedin as Sebastian Barrios Poveda
+- 📫 How to reach me you can find me on Linkedin as Sebastian Barrios Poveda or follow this link: www.linkedin.com/in/sebastianbarriospoveda
 
 <!---
 sbarriosp/sbarriosp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
