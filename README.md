@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Software Programmer and Business Administration Professional (bilingual, advanced English), with occupational interest in the area of technology, Frontend and Backend development, framework management. With skills such as creativity, conflict resolution, analytical and planning skills.
+Software Programmer (bilingual, advanced English), with occupational interest in the area of web development, Frontend and Backend development, framework management. With skills such as creativity, conflict resolution, analytical and planning skills.
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [sbarriospov@outlook.com](mailto:sbarriospov@outlook.com)
