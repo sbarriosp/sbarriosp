@@ -9,6 +9,7 @@ Software Programmer and Business Administration Professional (bilingual, advance
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [sbarriospov@outlook.com](mailto:sbarriospov@outlook.com)
 * 🧠  I'm learning Java | MySQL | Spring Boot | HTML | CSS | Bootstrap |JavaScript | Mongodb | Express js | React | Node.js | Python
+* Don't forget to visit my portfolio: https://sbarriosp.github.io/my-portfolio/#/ 
 
 ### Skills
 
